@@ -20,16 +20,10 @@ the U.S. Department of Education, contains institution-level data for all accred
 
 [Data Documentation](https://collegescorecard.ed.gov/data/documentation/)
 
-#### Data Download From College Scorecard
-
-[Raw CSV Data](https://catalog.data.gov/dataset/college-scorecard)
+#### Data Download From College Scorecard [CSV Data](https://catalog.data.gov/dataset/college-scorecard)
 
 
-#### API Documentation for College Scorecard
-
-[Documentation](http://api.data.gov/ed/collegescorecard/)
-
-[Endpoint](http://api.data.gov/ed/collegescorecard/v1/schools)
+#### API Documentation for College Scorecard [Documentation](http://api.data.gov/ed/collegescorecard/) (http://api.data.gov/ed/collegescorecard/v1/schools)
 
 
 
