@@ -2,7 +2,7 @@
 
 
 
-### Abstract:
+### Abstract
 
 
 In this project, we looked at data of undergraduate students to analyze the cost incurred by looking at student debt and their earnings after 6 years. Utilizing data science tools and working with data from the Department of Education and Department of Labor Statistics, a visualization using Tableau was created. 
