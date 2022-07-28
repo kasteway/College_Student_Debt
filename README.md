@@ -12,7 +12,7 @@ Then a supervised machine learning algorithm was recommended to build a regressi
 
 
 
-### Design:
+### Design
 
 
 According to the National Center for Education Statistics, the United States had 3.4 million high school students graduated the school year 2020-2021. Of the 3.4 million, it is estimated 2.2 million of the high school graduates will attend some form of higher education in the form of a 2-year college or 4-year university. One of the hardest hurdles for most students is the financial burden of 4 years. It is often easy to take loans but hard to pay back. Therefore, this EDA and regression model will bring some attention to the need to plan about future earnings as well. 
