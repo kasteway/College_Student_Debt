@@ -21,7 +21,7 @@ According to the National Center for Education Statistics, the United States had
 
 
 
-### Data:
+### Data
 
 
 The [College Scorecard data set](https://catalog.data.gov/dataset/college-scorecard), collected and made available by 
