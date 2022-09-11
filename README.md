@@ -42,7 +42,7 @@ the U.S. Department of Education, contains institution-level data for all accred
 
 
 
-#### Algorithm & Tools
+#### Algorithm & Tools:
 
 
 Perform a thorough exploratory analysis in Excel and Tableau by cleaning, exploring, aggregating, and visualizing the data as appropriate to address the problem:
