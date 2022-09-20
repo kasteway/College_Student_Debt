@@ -47,7 +47,7 @@ the U.S. Department of Education, contains institution-level data for all accred
 
 Perform a thorough exploratory analysis in Excel and Tableau by cleaning, exploring, aggregating, and visualizing the data as appropriate to address the problem: 
 
-     o 	Exploratory data analysis in Excel
+     o 	Exploratory data analysis in Excel.
      o 	Visualization in Tableau.
      o	Acquisition tools use of APIs.
      o	Programming Language use of Python.
