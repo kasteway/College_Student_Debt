@@ -25,7 +25,7 @@ According to the National Center for Education Statistics, the United States had
 
 
 The [College Scorecard data set](https://catalog.data.gov/dataset/college-scorecard), collected and made available by 
-the U.S. Department of Education, contains institution-level data for all accredited institutions in the United States offering undergraduate degrees. It contains institutional admissions and academics data, student loan and student earnings data. The data used for analysis in this project is from the most recent 2020-2021 school year.
+the U.S. Department of Education, contains institution-level data for all accredited institutions in the United States offering undergraduate degrees. It contains institutional admissions and academics data, student loan and student earnings data. The data used for analysis in this project is from the most recent 2020-2021 school year
 
 
 #### Data Download From College Scorecard File [CSV Data](https://catalog.data.gov/dataset/college-scorecard)
