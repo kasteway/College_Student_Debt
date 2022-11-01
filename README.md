@@ -50,6 +50,6 @@ Perform a thorough exploratory analysis in Excel and Tableau by cleaning, explor
      o 	Exploratory data analysis in Excel.
      o 	Visualization in Tableau.
      o	Acquisition tools use of APIs.
-     o	Programming Language use of Python...
+     o	Programming Language use of Python.
 
 
